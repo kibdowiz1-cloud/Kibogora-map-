@@ -1,0 +1,7 @@
+{
+  "name": "Kibogora Map",
+  "description": "A navigation and local discovery app for Kibogora and beyond, powered by Google Maps data and Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
